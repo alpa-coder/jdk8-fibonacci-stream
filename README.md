@@ -3,4 +3,4 @@
 For more information, see [blogpost][1] about this project.
 
 
-  [1]: https://jacobsvanroy.be/blog/jdk-8-fibonacci-stream/
+  [1]: https://jacobsvanroy.be/blog/jdk8-fibonacci-stream/
