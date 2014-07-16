@@ -38,7 +38,7 @@ public class FibonacciStreamBuilderTest {
 
     @Test
     public void testStream() throws Exception {
-        LongStream stream = fibonacciStreamBuilder.getStream(x -> x <= 89).parallel();
+        LongStream stream = fibonacciStreamBuilder.getStream(x -> x <= 89);
         List<Long> fibList = stream
                 .boxed()
                 .collect(Collectors.toList());
