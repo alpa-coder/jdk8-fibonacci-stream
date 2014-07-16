@@ -1,4 +1,6 @@
-jdk8-fibonacci-stream
-=====================
+#JDK 8 – Fibonacci stream
 
-Creating a fibonacci stream using the JDK8+
+For more information, see [blogpost][1] about this project.
+
+
+  [1]: https://jacobsvanroy.be/blog/
